@@ -23,3 +23,6 @@
 ## Timeframe
 - **Input**: Data ranges from **2023-11-03** to **2024-10-31** (from `brkb.csv`).
 - **Output**: Predicts the next 7 days.
+
+## Screenshots
+![output](output.png)
